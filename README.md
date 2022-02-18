@@ -1,3 +1,4 @@
 # alx-pre_course
 I am now a ALX student,this is my first repository as a full stack engineer
-this is my first readme
+This is my first commit
+
